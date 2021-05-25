@@ -38,7 +38,7 @@ abstract class DuskTestCase extends BaseTestCase
 		"name" => "LaravelDusk Build",
 		"platform" => "Windows 10",
 		"browserName" => "Chrome",
-		"version" => "latest",
+		"version" => "86.0",
 		"tunnel" => true
      );
 
